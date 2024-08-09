@@ -1,0 +1,64 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.main-text {
+  margin-top: 200px;
+}
+
+.main-text h2 {
+  color: rgb(64, 81, 61);
+}
+
+.main-text span {
+  color: rgb(115, 9, 9);
+}
+
+.main-container {
+  margin-top: 50px;
+  padding: 20px;
+  background: rgb(252, 252, 252);
+
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.password-box {
+  width: 100%;
+  min-height: 50px; /* Adjust the height as needed */
+  border: 1px solid #ccc;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f9f9f9;
+}
+
+.password-box p {
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.text-center {
+  color: rgb(191, 191, 191);
+}
+
+@media screen and (max-width: 768px) {
+  .text-center {
+    margin-top: 20px;
+    margin-left: 0;
+    display: flex;
+    text-align: start;
+    color: rgb(191, 191, 191);
+  }
+
+  .main-text h2 {
+    font-size: 21px;
+    text-align: center;
+  }
+}
