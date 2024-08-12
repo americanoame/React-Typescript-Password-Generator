@@ -3,6 +3,7 @@
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/f8e9b04c-2b2f-4f1c-9f59-12231e847989"><td>
+    <td><img src="https://github.com/user-attachments/assets/f78cb8cb-85e0-424e-8e9e-9f7c58112924"><td>
   </tr>
 </table>
 
