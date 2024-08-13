@@ -28,7 +28,7 @@
 - This project is a great example of how to use React and TypeScript together to build a dynamic, user-friendly application. Feel free to explore the code and contribute if you'd like!
 
 
-##### Deploed link: https://americanoame.github.io/React-Typescript-Password-Generator/
+##### Check out the live site here: https://americanoame.github.io/React-Typescript-Password-Generator/
 
 #### Steps to run the application
 
