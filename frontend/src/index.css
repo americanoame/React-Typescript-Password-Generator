@@ -7,7 +7,7 @@ body {
 }
 
 .main-text h2 {
-  margin-top: 200px;
+  margin-top: 150px;
   
   color: rgb(64, 81, 61);
   
@@ -24,7 +24,6 @@ body {
   width: 100%;
   padding: 20px;
   background: rgb(252, 252, 252);
-
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
 
@@ -61,7 +60,10 @@ body {
   }
 
   .main-text h2 {
+    margin-top: 80px;
     font-size: 21px;
     text-align: center;
   }
+
+  
 }
