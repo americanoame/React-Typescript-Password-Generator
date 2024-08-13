@@ -31,6 +31,9 @@
 #### Steps to run the application
 
 
+#### Deploed link: https://americanoame.github.io/React-Typescript-Password-Generator/
+
+
 ```
 npm init -y
 ```
